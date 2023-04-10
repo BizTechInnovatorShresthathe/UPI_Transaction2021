@@ -4,7 +4,7 @@
 
 # UPI_Transaction2021
 
-This project visualizes UPI transaction of different banks/cpmanies and platforms for the year 2021 monthwise.
+This project visualizes UPI transaction of different banks/companies and platforms for the year 2021 monthwise.
 The columns involve :
 UPI Banks - upi app name
 Volume (Mn) By Costumers - volume of transactions
